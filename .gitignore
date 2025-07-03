@@ -1,0 +1,11 @@
+# Ignorar la carpeta del entorno virtual
+tfm_ia/
+
+# Ignorar archivos NumPy
+*.npy
+
+# Ignorar archivos pickle
+*.pkl
+
+# Ignorar archivo con clave OpenAI
+*.env
